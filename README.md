@@ -1,5 +1,5 @@
 # readmes_for_private_repos
- this repositry will has reade files describes all mu private repos.
+ this repositry will has readme files that describes all my private repos.
 
 
 
