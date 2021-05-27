@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo.png" width="300" height="300">
 </p>
-<h1 align="center">GYM BAR</h1>
+<h1 align="center">Study Space</h1>
 
 <h2 align="left">ℹ️ About</h2>
 
