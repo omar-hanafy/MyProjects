@@ -13,7 +13,7 @@ Study Space developed using flutter framework. It seeks to offer a better and
 It allows students to work together to achieve a higher than ever learning curve.
  My job was dealing with the back-end developer by using the Restful APIs through JSON libraries, create an amazing UX/UI and implement social login buttons like Facebook, Google, and Twitter.
 
-[Open Documentation Book For More Details](./graduation_project_book.pdf)
+[Open Documentation Book For More Details](https://drive.google.com/file/d/1Licp1jeszjK7gyKp0awYFuVrwOXjsdhA/view?usp=sharing)
 
 
 
