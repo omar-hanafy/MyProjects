@@ -52,18 +52,22 @@ Reference: https://pub.dev.
 
 ## 🤝 Team Names.
 
-Ali Hassan
+Ali Hassan (Leader).
 
-Omar Khaled
+Omar Khaled (Flutter Developer).
 
-Omar Nour
+Omar Nour (Database Devleoper).
 
-Tarek Mohamed
+Tarek Mohamed (Flutter Developer).
 
-Zeiad Saleh
+Zeiad Saleh (Designer).
 
 
 
 ## 👨🏽‍💻 Who Am I.
 
 I am Omar Khaled, I am a front-end mobile developer and I developed this app using the Flutter framework from Google.
+
+​	LinkedIn: [in/omar-hanafy](https://www.linkedin.com/in/omar-hanafy)
+
+​	Email: omar_hanafy@icloud.com
