@@ -28,4 +28,3 @@
 <h2><a href="https://github.com/omar-hanafy/bloc_examples" style="text-decoration:none">
 <img src="assets/bloc-logo.png" width="100" height="100"> BLoC Examples.
 </a></h2>
-
