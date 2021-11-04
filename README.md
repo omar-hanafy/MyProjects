@@ -19,12 +19,13 @@
 
 ### Open Source (Description with source code).
 
-<h2><a href="https://github.com/omar-hanafy/gym_bar" style="text-decoration:none">
+<h2><a href="https://github.com/omar-hanafy/gym_bar/blob/master/README.md" style="text-decoration:none">
 <img src="assets/gymbar-logo.png" width="100" height="100"> Gym Bar.
 </a></h2>
 
 
 
-<h2><a href="https://github.com/omar-hanafy/bloc_examples" style="text-decoration:none">
+<h2><a href="https://github.com/omar-hanafy/gym_bar/blob/master/README.md" style="text-decoration:none">
 <img src="assets/bloc-logo.png" width="100" height="100"> BLoC Examples.
 </a></h2>
+
