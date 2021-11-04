@@ -13,7 +13,9 @@ SWISS is an attendance follow up for SWISS CO. worker’s that allows them to ch
 
 
 
-<iframe width="589" height="497" src="https://www.youtube.com/embed/zFZqxjz5wYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+​                                        ![](assets/preview.gif)
+
+
 
 ## ✅ My Mission Was.
 
