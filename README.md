@@ -1,30 +1,5 @@
 # My Projects
- This repositry contains documentation and description of all my projects
 
+This repository used to contain documentation and description of all my projects, but as of 7th of October 2022, I have developed my own porfolio website using the flutter framework to show my personal details, resume, contributions, and projects.
 
-
-### Private (Description only).
-
-<h2><a href="./swiss/README.md" style="text-decoration:none">
-<img src="swiss/assets/logo.png" width="100" height="100"> SWISS.
-</a></h2>
-
-
-
-
-<h2><a href="./graduation_project/README.md" style="text-decoration:none">
-<img src="graduation_project/assets/logo.png" width="100" height="100"> Study Space (Graduation Project).
-</a></h2>
-
-
-### Open Source (Description with source code).
-
-<h2><a href="https://github.com/omar-hanafy/gym_bar" style="text-decoration:none">
-<img src="assets/gymbar-logo.png" width="100" height="100"> Gym Bar.
-</a></h2>
-
-
-
-<h2><a href="https://github.com/omar-hanafy/bloc_examples" style="text-decoration:none">
-<img src="assets/bloc-logo.png" width="100" height="100"> BLoC Examples.
-</a></h2>
+<h3><a href="https://omarkhaled.web.app" style="text-decoration:none"> You can visit my new website by clicking here </a></h3>
